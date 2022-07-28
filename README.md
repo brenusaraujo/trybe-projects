@@ -1,8 +1,8 @@
 # Projetos Trybe
 
-Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
-
-> "A Trybe é uma escola do futuro para qualquer pessoa que queira
+🇧🇷 🇵🇹 Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
+🏴 🇺🇸 In this repository there are all project developed by <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">me</a> when I was studying at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
+🇧🇷 🇵🇹 > "A Trybe é uma escola do futuro para qualquer pessoa que queira
 > melhorar de vida e construir uma carreira de sucesso em tecnologia,
 > onde a pessoa só paga quando conseguir um bom trabalho."
 > 
@@ -10,6 +10,15 @@ Este repositório contém todos os projetos desenvolvidos por <a href="https://w
 > e aborda introdução ao desenvolvimento de software, front-end,
 > back-end, ciência da computação, engenharia de software, metodologias
 > ágeis e habilidades comportamentais.
+
+🇺🇸 > "Trybe is a future school for any person who wants 
+> to change your life and build a sucesseful career in technology. 
+> At Trybe, you only pay for the course when you get a good job.
+>
+> Trybe's summary is made of about 1500 hours of remote classes 
+> and approach software development 101, front-end, 
+> back-end, computer science, software engineering, agile methodologies 
+> and soft skills.
 
 ## Fundamentos do desenvolvimento web :heavy_check_mark:
 
