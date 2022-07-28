@@ -23,64 +23,61 @@
 > back-end, computer science, software engineering, agile methodologies 
 > and soft skills.
 
-## 🇧🇷 Fundamentos do desenvolvimento web :heavy_check_mark:  
+## 🇧🇷 Fundamentos do desenvolvimento web / :us: Web development 101 :heavy_check_mark: 
 
-#### 🇧🇷 Bloco 3: Introdução à HTML e CSS / 🇺🇸 HTML and CSS 101. 
+#### Bloco 3: 🇧🇷 Introdução à HTML e CSS / 🇺🇸 HTML and CSS 101. 
 - [x] Projeto - Lessons Learned
 
-#### Bloco 4: Introdução à JavaScript e Lógica de Programação / :us: Javascript 101
+#### Bloco 4: 🇧🇷 Introdução à JavaScript e Lógica de Programação / :us: Javascript 101
 - [x] Projeto - Playground Functions
 
-#### Bloco 5: JavaScript: DOM, Eventos e Web Storage / :us: Javascript, DOM, events, and web storage
+#### Bloco 5: 🇧🇷 JavaScript: DOM, Eventos e Web Storage / :us: Javascript, DOM, events, and web storage
 - [x] Projeto - Arte com Pixels
 
-#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo / :us: HTML and CSS: forms, flexbox and responsively
+#### Bloco 6: 🇧🇷 HTML e CSS: Forms, Flexbox e Responsivo / :us: HTML and CSS: forms, flexbox and responsively
 - [x] Projeto - Trybewarts
 
-#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários / :us: Javascript ES6 and uniting tests.
+#### Bloco 7: 🇧🇷 Introdução à JavaScript ES6 e Testes Unitários / :us: Javascript ES6 and uniting tests.
 - [x] Projeto - JavaScript Testes Unitários
 
-#### Bloco 8: Higher Order Functions do JavaScript ES6 / :us: HOF Javascript es6
+#### Bloco 8: 🇧🇷 Higher Order Functions do JavaScript ES6 / :us: HOF Javascript es6
 - [x] Projeto - Zoo functions
-
-#### Bloco 9: JavaScript Assíncrono e Promises / :us: Async Javascript and promises
-- [x] Projeto - Carrinho de Compras
-
-#### Bloco 10-a: Testes automatizados com Jest / :us: Automated test using Jest
-- [x] Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-#### Bloco 10-b: Introdução à React / :us: React 101
-- [x] Projeto - Movie Cards Library
+#### Bloco 9: 🇧🇷 JavaScript Assíncrono e Promises / :us: Async Javascript and promises
+- [x] Projeto - Carrinho de Compras
 
-#### Bloco 11: Componentes com Estado, Eventos e Formulários com React / :us: Components, state, events and forms on React
+#### Bloco 10: 🇧🇷 Introdução à React / :us: React 101
+- [x] Projeto - Sistema Solar
+
+#### Bloco 11: 🇧🇷 Componentes com Estado, Eventos e Formulários com React / :us: Components, state, events and forms on React
 - [x] Projeto - Tryunfo
 
-#### Bloco 12: Ciclo de Vida de Componentes e React Router / :us: React Router and React lifecycle
+#### Bloco 12: 🇧🇷 Ciclo de Vida de Componentes e React Router / :us: React Router and React lifecycle
 - [x] Projeto - TrybeTunes
 
-#### Bloco 13: Metodologias Ágeis / :us: Agile methodologies
+#### Bloco 13: 🇧🇷 Metodologias Ágeis / :us: Agile methodologies
 - [x] Projeto - Frontend Online Store
 
-#### Bloco 14: Testes automatizados com React Testing Library / :us: Automated tests using React Testing Library
+#### Bloco 14: 🇧🇷 Testes automatizados com React Testing Library / :us: Automated tests using React Testing Library
 - [x] Projeto - Testes em React
 
-#### Bloco 15: Gerenciamento de estado com Redux / :us: Store management using Redux
-- [x] Projeto - TrybeWallet
+#### Bloco 15: 🇧🇷 Gerenciamento de estado com Redux / :us: Store management using Redux
+- [ ] Projeto - TrybeWallet
 
-#### Bloco 16: Projeto Jogo de Trivia / :us: Trivia project
+#### Bloco 16: 🇧🇷 Projeto Jogo de Trivia / :us: Trivia project
 - [ ] Projeto - Jogo de Trivia
 
-#### Bloco 17: Context API e React Hooks / :us: Context API and React Hooks
+#### Bloco 17: 🇧🇷 Context API e React Hooks / :us: Context API and React Hooks
 - [ ] Projeto - StarWars Datatable com Context API e Hooks
 
-#### Bloco 18: Projeto App de Receitas / :us: Recipes App.
+#### Bloco 18: 🇧🇷 Projeto App de Receitas / :us: Recipes App.
 - [ ] Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-#### Bloco 19: Docker: Utilizando Containers / :us: Docker: using containers
+#### Bloco 19: 🇧🇷 Docker: Utilizando Containers / :us: Docker: using containers
 - [ ] Projeto - Docker Todo-List
 
 #### Bloco 20: Introdução à SQL / :us: SQL 101
