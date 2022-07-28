@@ -1,7 +1,8 @@
 # Projetos Trybe
 
 🇧🇷 🇵🇹 Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
-🏴 🇺🇸 In this repository there are all project developed by <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">me</a> when I was studying at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
+
+🇺🇸 In this repository there are all project developed by <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">me</a> when I was studying at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
 
  
 > 🇧🇷 🇵🇹 "A Trybe é uma escola do futuro para qualquer pessoa que queira
