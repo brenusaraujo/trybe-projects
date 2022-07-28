@@ -1,11 +1,11 @@
 # Projetos Trybe
 
-🇧🇷 🇵🇹 Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
+🇧🇷 Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
 
 🇺🇸 In this repository there are all project developed by <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">me</a> when I was studying at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
 
  
-> 🇧🇷 🇵🇹 "A Trybe é uma escola do futuro para qualquer pessoa que queira
+> 🇧🇷 "A Trybe é uma escola do futuro para qualquer pessoa que queira
 > melhorar de vida e construir uma carreira de sucesso em tecnologia,
 > onde a pessoa só paga quando conseguir um bom trabalho."
 > 
@@ -23,69 +23,67 @@
 > back-end, computer science, software engineering, agile methodologies 
 > and soft skills.
 
-## Fundamentos do desenvolvimento web :heavy_check_mark:
+## 🇧🇷 Fundamentos do desenvolvimento web :heavy_check_mark:  
 
-#### Bloco 3: Introdução à HTML e CSS
+#### 🇧🇷 Bloco 3: Introdução à HTML e CSS / 🇺🇸 HTML and CSS 101. 
 - [x] Projeto - Lessons Learned
 
-#### Bloco 4: Introdução à JavaScript e Lógica de Programação
+#### Bloco 4: Introdução à JavaScript e Lógica de Programação / :us: Javascript 101
 - [x] Projeto - Playground Functions
 
-#### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+#### Bloco 5: JavaScript: DOM, Eventos e Web Storage / :us: Javascript, DOM, events, and web storage
 - [x] Projeto - Arte com Pixels
-- [x] Projeto - Lista de tarefas
-- [x] (Bônus) Projeto - Meme Generator
 
-#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
+#### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo / :us: HTML and CSS: forms, flexbox and responsively
 - [x] Projeto - Trybewarts
 
-#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+#### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários / :us: Javascript ES6 and uniting tests.
 - [x] Projeto - JavaScript Testes Unitários
 
-#### Bloco 8: Higher Order Functions do JavaScript ES6
+#### Bloco 8: Higher Order Functions do JavaScript ES6 / :us: HOF Javascript es6
 - [x] Projeto - Zoo functions
 
-#### Bloco 9: JavaScript Assíncrono e Promises
+#### Bloco 9: JavaScript Assíncrono e Promises / :us: Async Javascript and promises
 - [x] Projeto - Carrinho de Compras
 
-#### Bloco 10-a: Testes automatizados com Jest
+#### Bloco 10-a: Testes automatizados com Jest / :us: Automated test using Jest
 - [x] Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-#### Bloco 10-b: Introdução à React
+#### Bloco 10-b: Introdução à React / :us: React 101
 - [x] Projeto - Movie Cards Library
 
-#### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+#### Bloco 11: Componentes com Estado, Eventos e Formulários com React / :us: Components, state, events and forms on React
 - [x] Projeto - Tryunfo
 
-#### Bloco 12: Ciclo de Vida de Componentes e React Router
+#### Bloco 12: Ciclo de Vida de Componentes e React Router / :us: React Router and React lifecycle
 - [x] Projeto - TrybeTunes
 
-#### Bloco 13: Metodologias Ágeis
+#### Bloco 13: Metodologias Ágeis / :us: Agile methodologies
 - [x] Projeto - Frontend Online Store
 
-#### Bloco 14: Testes automatizados com React Testing Library
+#### Bloco 14: Testes automatizados com React Testing Library / :us: Automated tests using React Testing Library
 - [x] Projeto - Testes em React
 
-#### Bloco 15: Gerenciamento de estado com Redux
+#### Bloco 15: Gerenciamento de estado com Redux / :us: Store management using Redux
 - [x] Projeto - TrybeWallet
 
-#### Bloco 16: Projeto Jogo de Trivia
+#### Bloco 16: Projeto Jogo de Trivia / :us: Trivia project
 - [ ] Projeto - Jogo de Trivia
 
-#### Bloco 17: Context API e React Hooks
+#### Bloco 17: Context API e React Hooks / :us: Context API and React Hooks
 - [ ] Projeto - StarWars Datatable com Context API e Hooks
 
-#### Bloco 18: Projeto App de Receitas
+#### Bloco 18: Projeto App de Receitas / :us: Recipes App.
 - [ ] Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-#### Bloco 19: Docker: Utilizando Containers
+#### Bloco 19: Docker: Utilizando Containers / :us: Docker: using containers
 - [ ] Projeto - Docker Todo-List
 
-#### Bloco 20: Introdução à SQL
+#### Bloco 20: Introdução à SQL / :us: SQL 101
 - [ ] Projeto - All For One
 
 #### Bloco 21: Funções SQL, JOINs e Normalização
