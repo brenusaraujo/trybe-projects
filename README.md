@@ -39,7 +39,7 @@ Este repositório contém todos os projetos desenvolvidos por <a href="https://w
 #### Bloco 10-a: Testes automatizados com Jest
 - [x] Projeto - Jest Assíncrono e Mocking
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 #### Bloco 10-b: Introdução à React
 - [x] Projeto - Movie Cards Library
@@ -60,48 +60,48 @@ Este repositório contém todos os projetos desenvolvidos por <a href="https://w
 - [x] Projeto - TrybeWallet
 
 #### Bloco 16: Projeto Jogo de Trivia
-- [x] Projeto - Jogo de Trivia
+- [ ] Projeto - Jogo de Trivia
 
 #### Bloco 17: Context API e React Hooks
-- [x] Projeto - StarWars Datatable com Context API e Hooks
+- [ ] Projeto - StarWars Datatable com Context API e Hooks
 
 #### Bloco 18: Projeto App de Receitas
-- [x] Projeto - App de Receitas
+- [ ] Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 #### Bloco 19: Docker: Utilizando Containers
-- [x] Projeto - Docker Todo-List
+- [ ] Projeto - Docker Todo-List
 
 #### Bloco 20: Introdução à SQL
-- [x] Projeto - All For One
+- [ ] Projeto - All For One
 
 #### Bloco 21: Funções SQL, JOINs e Normalização
-- [x] Projeto - One For All
+- [ ] Projeto - One For All
 
 #### Bloco 22: Introdução ao desenvolvimento Web com Node.js
-- [x] Projeto - Talker Manager
+- [ ] Projeto - Talker Manager
 
 #### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
-- [x] Projeto - Store Manager
+- [ ] Projeto - Store Manager
 
 #### Bloco 24: Node.js: ORM e Autenticação
-- [x] Projeto - API de Blogs
+- [ ] Projeto - API de Blogs
 
 #### Bloco 25: Deployment
-- [x] Projeto - Stranger Things
+- [ ] Projeto - Stranger Things
 
 #### Bloco 26: TypeScript
-- [x] Projeto - TrybeSmith
+- [ ] Projeto - TrybeSmith
 
 #### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
-- [x] Projeto - Trybers and Dragons
+- [ ] Projeto - Trybers and Dragons
 
 #### Bloco 28: Projeto - TFC - Trybe Futebol Clube
-- [x] Projeto - TFC - Trybe Futebol Clube
+- [ ] Projeto - TFC - Trybe Futebol Clube
 
 #### Bloco 29: Introdução ao MongoDB
-- [x] Projeto - Commerce
+- [ ] Projeto - Commerce
 
 #### Bloco 30: MongoDB com Node.js e POO
 - [ ] Projeto - Car Shop
