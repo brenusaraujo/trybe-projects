@@ -2,7 +2,9 @@
 
 🇧🇷 🇵🇹 Este repositório contém todos os projetos desenvolvidos por <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">mim</a> no tempo que estudei na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
 🏴 🇺🇸 In this repository there are all project developed by <a href="https://www.linkedin.com/in/brenusaraujo/" target="_blank">me</a> when I was studying at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. :rocket:
-🇧🇷 🇵🇹 > "A Trybe é uma escola do futuro para qualquer pessoa que queira
+
+ 
+> 🇧🇷 🇵🇹 "A Trybe é uma escola do futuro para qualquer pessoa que queira
 > melhorar de vida e construir uma carreira de sucesso em tecnologia,
 > onde a pessoa só paga quando conseguir um bom trabalho."
 > 
@@ -11,7 +13,7 @@
 > back-end, ciência da computação, engenharia de software, metodologias
 > ágeis e habilidades comportamentais.
 
-🇺🇸 > "Trybe is a future school for any person who wants 
+> 🇺🇸 "Trybe is a future school for any person who wants 
 > to change your life and build a sucesseful career in technology. 
 > At Trybe, you only pay for the course when you get a good job.
 >
