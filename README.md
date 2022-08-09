@@ -64,7 +64,7 @@
 - [x] Projeto - Testes em React
 
 #### Bloco 15: 🇧🇷 Gerenciamento de estado com Redux / :us: Store management using Redux
-- [ ] Projeto - TrybeWallet
+- [X] Projeto - TrybeWallet
 
 #### Bloco 16: 🇧🇷 Projeto Jogo de Trivia / :us: Trivia project
 - [ ] Projeto - Jogo de Trivia
